@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TargetDatabase>E18I4DABau572020</TargetDatabase>
+    <StartupScript>(Blank)</StartupScript>
+    <StartAction>StartNone</StartAction>
+    <TargetConnectionString>Data Source=st-i4dab.uni.au.dk.;Initial Catalog=E18I4DABau572020;Persist Security Info=True;User ID=E18I4DABau572020;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True</TargetConnectionString>
+  </PropertyGroup>
+</Project>
